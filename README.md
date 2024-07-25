@@ -8,7 +8,7 @@ A. Ensure g++ is installed
   - brew install gcc
 
 1. Clone the repo
-  - https://github.com/KOsanesome/Quest_List_Manager.git
+  - git clone https://github.com/KOsanesome/Quest_List_Manager.git
 2. Go to directory
   - cd Quest_List_Manager
 3. Compile the project file
@@ -21,7 +21,7 @@ Steps for installing it on PC
 A. Install a C++ compiler, such as MinGW
 
 1. Clone the repo
-  - https://github.com/KOsanesome/Quest_List_Manager.git
+  - git clone https://github.com/KOsanesome/Quest_List_Manager.git
 2. Go to directory
   - cd Quest_List_Manager
 3. Compile the project file
